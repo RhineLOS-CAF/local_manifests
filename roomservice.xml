@@ -12,12 +12,12 @@
   <project name="SonyLOS/android_vendor_cm" path="vendor/cm" remote="github" revision="cm-14.1" />
 
   <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-14.1" />
-  <project name="SonyLOS/android_device_sony_common-aosp" path="device/sony/common-aosp" remote="github" revision="cm-14.1-caf-sony" />
-  <project name="SonyLOS/android_device_sony_shinano-common" path="device/sony/shinano-common" remote="github" revision="cm-14.1-caf-sony" />
-  <project name="SonyLOS/android_device_sony_leo" path="device/sony/leo" remote="github" revision="cm-14.1-caf-sony" />  
+  <project name="RhineLOS-CAF/android_device_sony_common-aosp" path="device/sony/common-aosp" remote="github" revision="cm-14.1-caf-sony" />
+  <project name="RhineLOS-CAF/android_device_sony_rhine-common" path="device/sony/rhine-common" remote="github" revision="cm-14.1-caf-sony" />
+  <project name="SonyLOS/android_device_sony_honami" path="device/sony/honami" remote="github" revision="cm-14.1-caf-sony" />  
   <project name="SonyLOS/android_device_sony_sepolicy" path="device/sony/sepolicy" remote="github" revision="cm-14.1-caf-sony" />
   <project name="SonyLOS/android_kernel_sony_msm" path="kernel/sony/msm" remote="github" revision="cm-14.1" />
-  <project name="SonyLOS/android_hardware_sony_camera" path="hardware/sony/camera" remote="github" revision="cm-14.1-caf-sony" />
+  <project name="RhineLOS-CAF/android_hardware_sony_camera" path="hardware/sony/camera" remote="github" revision="cm-14.1-caf-sony" />
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_macaddrsetup" path="hardware/sony/macaddrsetup" remote="github" revision="cm-14.1" />
@@ -25,7 +25,7 @@
   <project name="sonyxperiadev/vendor-qcom-opensource-location" path="hardware/sony/location" remote="github" revision="master" />
   <project name="SonyAosp/vendor_nxp" path="vendor/nxp" remote="github" revision="android-7.0" />
   <project name="SonyAosp/vendor_qcom" path="vendor/qcom" remote="github" revision="android-7.0" />
-  <project name="SonyLOS/vendor_qcom_audio" path="vendor/qcom/audio" remote="github" revision="cm-14.1-caf-sony" />
+  <project name="RhineLOS-CAF/vendor_qcom_audio" path="vendor/qcom/audio" remote="github" revision="cm-14.1-caf-sony" />
   <project name="SonyAosp/vendor_sony" path="vendor/sony" remote="github" revision="android-7.0" />
   <project name="SonyAosp/vendor_qcom_firmware" path="vendor/qcom/firmware" remote="github" revision="android-7.0" />
 </manifest>
