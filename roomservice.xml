@@ -16,7 +16,7 @@
   <project name="RhineLOS-CAF/android_device_sony_rhine-common" path="device/sony/rhine-common" remote="github" revision="cm-14.1-caf-sony" />
   <project name="SonyLOS/android_device_sony_honami" path="device/sony/honami" remote="github" revision="cm-14.1" />  
   <project name="SonyLOS/android_device_sony_sepolicy" path="device/sony/sepolicy" remote="github" revision="cm-14.1-caf-sony" />
-  <project name="SonyLOS/android_kernel_sony_msm" path="kernel/sony/msm" remote="github" revision="cm-14.1" />
+  <project name="RhineLOS-CAF/android_kernel_sony_msm" path="kernel/sony/msm" remote="github" revision="cm-14.1" />
   <project name="RhineLOS-CAF/android_hardware_sony_camera" path="hardware/sony/camera" remote="github" revision="cm-14.1-caf-sony" />
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
